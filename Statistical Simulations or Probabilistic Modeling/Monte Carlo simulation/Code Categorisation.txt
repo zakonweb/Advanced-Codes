@@ -1,0 +1,6 @@
+This code falls under the category of statistical simulations or probabilistic modeling, specifically Monte Carlo simulations.
+
+Monte Carlo simulations are a type of computational algorithm that rely on repeated random sampling to obtain numerical results. The underlying concept is to use randomness to solve problems that might be deterministic in principle.
+
+In this case, the Monte Carlo simulation is used to simulate the distribution of seats among different parties in an election. The simulation is run multiple times (100 times, in this case), and the results are averaged to get an estimation of the expected outcome. This is a common technique in statistical physics, financial mathematics, and similar fields where you want to predict the behavior of some system over time.
+

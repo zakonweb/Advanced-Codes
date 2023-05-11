@@ -1,0 +1,11 @@
+This code is an example of machine learning, specifically supervised learning, as it involves using labeled data (the Titanic dataset) to train models that can make predictions.
+
+Here's a brief breakdown:
+
+Data preprocessing: This includes loading the data, handling missing values, encoding categorical variables, and selecting features and targets. This is a crucial part of any machine learning workflow.
+
+Exploratory data analysis (EDA): This includes visualizing the data with pair plots and examining the correlation matrix. EDA is used to understand the structure and characteristics of your data.
+
+Model training and evaluation: This involves splitting the data into training and testing sets, fitting a model to the training data, making predictions on the test data, and evaluating the accuracy of those predictions. Two different models are used here: Linear Regression and Gaussian Naive Bayes.
+
+So, the overall category of this code would be "Supervised Learning in Machine Learning", and it involves aspects of data preprocessing, exploratory data analysis, and model training/evaluation.

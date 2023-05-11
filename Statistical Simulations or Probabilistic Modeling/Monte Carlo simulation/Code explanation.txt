@@ -1,0 +1,1 @@
+This code creates a DataFrame df with the given data, simulates 100 runs of the election using the specified probability distribution, calculates the averages for each party, and plots the required graphs.
